@@ -1,4 +1,4 @@
-# Seja Bem vindo ao perfil de Gabriel Carvalho!! 👋
+# SEJA BEM VINDO AO PERFIL DE GABRIEL CARVALHO!! 👋
 
 Engenheiro de Software com foco em resolução de problemas, algoritmos e desenvolvimento web moderno.
 
