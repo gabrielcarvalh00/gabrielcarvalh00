@@ -3,7 +3,7 @@ WELCOME TO GABRIEL CARVALHO'S PROFILE!!
 Software Engineer with professional experience in developing modern and legacy Java applications, working with versions ranging from Java 7 to Java 20+. I also have experience with React, including building Single-Page Applications (SPAs), integrating with public APIs, and implementing performance and resilience enhancements for applications running in unstable infrastructure environments.
 ---
 
-### 🛠️ Stacks & Tecnologias
+### 🛠️ Tech Stack:
 
 ![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
 ![Spring Boot](https://img.shields.io/badge/Spring_Boot-6DB33F?style=for-the-badge&logo=springboot&logoColor=white)
