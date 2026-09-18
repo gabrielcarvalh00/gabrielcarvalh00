@@ -51,7 +51,7 @@ Software Engineer with professional experience in developing modern and legacy J
   * Automated address autofill through integration with the ViaCEP API, reducing user input time by approximately 80%.
   * Worked within a micro front-end architecture using Module Federation and Single-SPA, participating in code reviews, pair programming sessions, and application deployments with Docker Compose on Linux servers.
 
-#### 🏛️ SigEVentos — *State University of Santa Cruz*
+#### 🏛️ SigEventos — *State University of Santa Cruz*
 * **Role:** Intern
 * **Highlights:**
   * Developed and improved **XHTML/JSF pages** in a legacy system, adapting existing functionalities to meet the university's institutional requirements.
