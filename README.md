@@ -35,7 +35,7 @@ Software Engineer with professional experience in developing modern and legacy J
 ![EJB](https://img.shields.io/badge/EJB-007396?style=for-the-badge&logo=java&logoColor=white)
 
 ---
-#### 🏛️ Event Management System — *State University of Santa Cruz / qintess*
+#### 🏛️ Event Management System — *State University of Santa Cruz / Qintess*
 * **Role:** Intern (Feb 2026 – Present)
 * **Highlights:** 
   * Developed RESTful APIs using a layered architecture with Java 21 and Spring Boot 3.0, implementing complete CRUD operations with JPA/Hibernate.
