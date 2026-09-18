@@ -60,7 +60,7 @@ Software Engineer with professional experience in developing modern and legacy J
   * Managed legacy projects and dependencies using **Gradle 4.1** and **Eclipse Oxygen**, enabling the integration and execution of new projects within the existing Java 7/8 environment.
 ---
 
-#### 🔬 Georeferenced Image Marketplace — *Scientific Initiation Research / State University of Santa Cruz*
+#### 🔬 Georeferenced Image Marketplace — *State University of Santa Cruz*
 * **Role:** Undergraduate Researcher
 * **Highlights:**
   * Developed a Web3 application for trading **drone-captured georeferenced images** through a public blockchain, using **React** for the frontend and **Express.js** for the backend.
