@@ -59,6 +59,18 @@ Software Engineer with professional experience in developing modern and legacy J
   * Managed project dependencies with **Maven** and performed application deployments using **JBoss 5.1**.
   * Managed legacy projects and dependencies using **Gradle 4.1** and **Eclipse Oxygen**, enabling the integration and execution of new projects within the existing Java 7/8 environment.
 ---
+
+#### 🔬 Georeferenced Image Marketplace — *Scientific Initiation Research / State University of Santa Cruz*
+* **Role:** Undergraduate Researcher
+* **Highlights:**
+  * Developed a Web3 application for trading **drone-captured georeferenced images** through a public blockchain, using **React** for the frontend and **Express.js** for the backend.
+  * Implemented an **Ethereum wallet** using the Web3.js library to enable cryptocurrency fund transfers between users.
+  * Integrated a **map service via DNS** to render a world map, allowing users to locate georeferenced images available for purchase.
+  * Implemented an **image metadata extraction service**, automatically extracting and storing metadata in a **SQL Server** database.
+  * [GitHub Repository](https://github.com/gabrielcarvalh00/PROJETO-TCC.git)
+---
+
+
 ### 📊 Estatísticas no GitHub
 
 <p align="center">
