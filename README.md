@@ -43,7 +43,8 @@ Software Engineer with professional experience in developing modern and legacy J
   * Structured DTOs in the communication layer to isolate sensitive data and standardized error handling with GlobalExceptionHandler, enhancing application security and maintainability.
   * Configured endpoint authentication and authorization using Spring Security, ensuring secure access control across the system.
 
-#### 🏛️ Faculty Recruitment System — *UESC / Qintess*
+#### 🏛️ Faculty Recruitment System — *State University of Santa Cruz / Qintess
+*
 * **Role:** Intern (Sep 2025 – Dec 2025)
 * **Highlights:**
   * Optimized React component rendering using useCallback, useMemo, and React DevTools, reducing unnecessary re-renders and improving application performance.
