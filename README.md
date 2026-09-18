@@ -1,6 +1,6 @@
 # SEJA BEM VINDO AO PERFIL DE GABRIEL CARVALHO!! 👋
 
-Engenheiro de Software com foco em resolução de problemas, algoritmos e desenvolvimento web moderno.
+Engenheiro de Software, com experiência no desenvolvimento de aplicações Java modernas e legadas, atuando desde Java 7 até versões superiores ao Java 20. Também possuo experiência com React, incluindo desenvolvimento de Single-Page Applications (SPAs), integração com APIs públicas e implementação de melhorias de performance e resiliência para aplicações executadas em ambientes com infraestrutura instável.
 
 ---
 
