@@ -40,10 +40,13 @@ Software Engineer with professional experience in developing modern and legacy J
 #### 🏛️ Event Management System — *State University of Santa Cruz*
 * **Role:** Backend Developer (Java 21 / Spring Boot 3)
 * **Highlights:** 
-  * Developed layered RESTful APIs using Spring Data, JPA/Hibernate, and standardized DTOs.
-  * Implemented security and access control with **Spring Security**.
-  * Optimized API pagination, reducing data transfer volume by **~20%**.
-  * Achieved high code reliability using unit tests with **JUnit5** and **Mockito**.
+• Developed RESTful APIs using a layered architecture with Java 21 and Spring Boot 3.0, implementing complete
+CRUD operations with JPA/Hibernate.
+• Implemented pagination in API endpoints using Spring Data, reducing data transfer volume by approximately 20%.
+• Structured DTOs in the communication layer to isolate sensitive data and standardized error handling with Globa-
+lExceptionHandler, enhancing application security and maintainability.
+• Configured endpoint authentication and authorization using Spring Security, ensuring secure access control across the
+system.
     
 ### 📊 Estatísticas no GitHub
 
