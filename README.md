@@ -26,7 +26,7 @@ Software Engineer with professional experience in developing modern and legacy J
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
 ![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
 
-## Legacy Java
+## 🛠️ Legacy Java
 
 ![Java EE](https://img.shields.io/badge/Java_EE-007396?style=for-the-badge&logo=java&logoColor=white)
 ![JBoss](https://img.shields.io/badge/JBoss-1F1F1F?style=for-the-badge&logo=redhat&logoColor=white)
