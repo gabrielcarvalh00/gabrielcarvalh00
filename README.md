@@ -35,7 +35,16 @@ Software Engineer with professional experience in developing modern and legacy J
 ![EJB](https://img.shields.io/badge/EJB-007396?style=for-the-badge&logo=java&logoColor=white)
 
 ---
+### 💼 Professional Experience & Enterprise Projects
 
+#### 🏛️ Event Management System — *State University of Santa Cruz*
+* **Role:** Backend Developer (Java 21 / Spring Boot 3)
+* **Highlights:** 
+  * Developed layered RESTful APIs using Spring Data, JPA/Hibernate, and standardized DTOs.
+  * Implemented security and access control with **Spring Security**.
+  * Optimized API pagination, reducing data transfer volume by **~20%**.
+  * Achieved high code reliability using unit tests with **JUnit5** and **Mockito**.
+    
 ### 📊 Estatísticas no GitHub
 
 <p align="center">
