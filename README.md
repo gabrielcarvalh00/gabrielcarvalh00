@@ -36,7 +36,7 @@ Software Engineer with professional experience in developing modern and legacy J
 
 ---
 #### 🏛️ Event Management System — *State University of Santa Cruz / Qintess*
-* **Role:** Intern (Feb 2026 – Present)
+* **Role:** Intern 
 * **Highlights:** 
   * Developed RESTful APIs using a layered architecture with Java 21 and Spring Boot 3.0, implementing complete CRUD operations with JPA/Hibernate.
   * Implemented pagination in API endpoints using Spring Data, reducing data transfer volume by approximately 20%.
@@ -44,7 +44,7 @@ Software Engineer with professional experience in developing modern and legacy J
   * Configured endpoint authentication and authorization using Spring Security, ensuring secure access control across the system.
 
 #### 🏛️ Faculty Recruitment System — *State University of Santa Cruz / Qintess*
-* **Role:** Intern (Sep 2025 – Dec 2025)
+* **Role:** Intern 
 * **Highlights:**
   * Optimized React component rendering using **useCallback**, **useMemo**, and **React DevTools**, reducing unnecessary re-renders and improving application performance.
   * Implemented a retry strategy for HTTP requests using Axios to handle server instability, improving perceived performance by approximately 30%.
