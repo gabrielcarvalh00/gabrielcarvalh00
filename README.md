@@ -46,7 +46,7 @@ Software Engineer with professional experience in developing modern and legacy J
 #### 🏛️ Faculty Recruitment System — *State University of Santa Cruz / Qintess*
 * **Role:** Intern (Sep 2025 – Dec 2025)
 * **Highlights:**
-  * Optimized React component rendering using useCallback, useMemo, and React DevTools, reducing unnecessary re-renders and improving application performance.
+  * Optimized React component rendering using **useCallback**, **useMemo**, and **React DevTools**, reducing unnecessary re-renders and improving application performance.
   * Implemented a retry strategy for HTTP requests using Axios to handle server instability, improving perceived performance by approximately 30%.
   * Automated address autofill through integration with the ViaCEP API, reducing user input time by approximately 80%.
   * Worked within a micro front-end architecture using Module Federation and Single-SPA, participating in code reviews, pair programming sessions, and application deployments with Docker Compose on Linux servers.
