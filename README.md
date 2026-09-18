@@ -57,7 +57,7 @@ Software Engineer with professional experience in developing modern and legacy J
   * Developed and improved **XHTML/JSF pages** in a legacy system, adapting existing functionalities to meet the university's institutional requirements.
   * Traced and improved **JavaBeans using Java 7/8**, ensuring application reliability and data integrity across database operations.
   * Managed project dependencies with **Maven** and performed application deployments using **JBoss 5.1**.
-  * Managed legacy projects and dependencies using **Gradle 4.1** and **Eclipse Oxygen**, enabling the integration and execution of new projects within the existing Java 7/8 environment.
+  * Managed legacy projects and dependencies using **Gradle 4.1** and **Eclipse Oxygen**, enabling the integration and execution of new projects within the existing **Java 7/8** environment.
 ---
 
 #### 🔬 Georeferenced Image Marketplace — *State University of Santa Cruz*
