@@ -38,18 +38,18 @@ Software Engineer with professional experience in developing modern and legacy J
 #### 🏛️ Event Management System — *State University of Santa Cruz / Qintess*
 * **Role:** Intern 
 * **Highlights:** 
-  * Developed RESTful APIs using a layered architecture with Java 21 and Spring Boot 3.0, implementing complete CRUD operations with JPA/Hibernate.
-  * Implemented pagination in API endpoints using Spring Data, reducing data transfer volume by approximately 20%.
-  * Structured DTOs in the communication layer to isolate sensitive data and standardized error handling with GlobalExceptionHandler, enhancing application security and maintainability.
-  * Configured endpoint authentication and authorization using Spring Security, ensuring secure access control across the system.
+  * Developed RESTful APIs using a layered architecture with Java 21 and Spring Boot 3.0, implementing complete CRUD operations with **JPA/Hibernate**.
+  * Implemented **pagination** in API endpoints using **Spring Data**, reducing data transfer volume by approximately 20%.
+  * Structured **DTOs** in the communication layer to isolate sensitive data and standardized error handling with **GlobalExceptionHandler**, enhancing application security and maintainability.
+  * Configured endpoint authentication and authorization using **Spring Security**, ensuring secure access control across the system.
 
 #### 🏛️ Faculty Recruitment System — *State University of Santa Cruz / Qintess*
 * **Role:** Intern 
 * **Highlights:**
   * Optimized React component rendering using **useCallback**, **useMemo**, and **React DevTools**, reducing unnecessary re-renders and improving application performance.
-  * Implemented a retry strategy for HTTP requests using Axios to handle server instability, improving perceived performance by approximately 30%.
-  * Automated address autofill through integration with the ViaCEP API, reducing user input time by approximately 80%.
-  * Worked within a micro front-end architecture using Module Federation and Single-SPA, participating in code reviews, pair programming sessions, and application deployments with Docker Compose on Linux servers.
+  * Implemented a retry strategy for **HTTP** requests using **Axios** to handle server instability, improving perceived performance by approximately 30%.
+  * Automated address autofill through **integration with the ViaCEP API**, reducing user input time by approximately 80%.
+  * Worked within a micro front-end architecture using **Module Federation and Single-SPA**, participating in **code reviews**, **pair programming** sessions, and application deployments with **Docker Compose** on **Linux servers**.
 
 #### 🏛️ SigEventos — *State University of Santa Cruz*
 * **Role:** Intern
