@@ -70,16 +70,6 @@ Software Engineer with professional experience in developing modern and legacy J
   * [GitHub Repository](https://github.com/gabrielcarvalh00/PROJETO-TCC.git)
 ---
 
-
-### 📊 Estatísticas no GitHub
-
-<p align="center">
-  <img height="160em" src="https://github-readme-stats.vercel.app/api?username=gabrielcarvalh00&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>
-  <img height="160em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=gabrielcarvalh00&layout=compact&theme=dark&hide=html"/>
-</p>
-
----
-
 ### 📬 Onde me encontrar
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/gabriel-carvalho-059929211)
