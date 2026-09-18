@@ -50,6 +50,14 @@ Software Engineer with professional experience in developing modern and legacy J
   * Implemented a retry strategy for HTTP requests using Axios to handle server instability, improving perceived performance by approximately 30%.
   * Automated address autofill through integration with the ViaCEP API, reducing user input time by approximately 80%.
   * Worked within a micro front-end architecture using Module Federation and Single-SPA, participating in code reviews, pair programming sessions, and application deployments with Docker Compose on Linux servers.
+
+#### 🏛️ SigVentos — *State University of Santa Cruz*
+* **Role:** Intern
+* **Highlights:**
+  * Developed and improved **XHTML/JSF pages** in a legacy system, adapting existing functionalities to meet the university's institutional requirements.
+  * Traced and improved **JavaBeans using Java 7/8**, ensuring application reliability and data integrity across database operations.
+  * Managed project dependencies with **Maven** and performed application deployments using **JBoss 5.1**.
+  * Managed legacy projects and dependencies using **Gradle 4.1** and **Eclipse Oxygen**, enabling the integration and execution of new projects within the existing Java 7/8 environment.
 ---
 ### 📊 Estatísticas no GitHub
 
