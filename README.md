@@ -54,10 +54,10 @@ Software Engineer with professional experience in developing modern and legacy J
 #### 🏛️ SigEventos — *State University of Santa Cruz*
 * **Role:** Intern
 * **Highlights:**
-  * Developed and improved **XHTML/JSF pages** in a legacy system, adapting existing functionalities to meet the university's institutional requirements.
-  * Traced and improved **JavaBeans using Java 7/8**, ensuring application reliability and data integrity across database operations.
-  * Managed project dependencies with **Maven** and performed application deployments using **JBoss 5.1**.
-  * Managed legacy projects and dependencies using **Gradle 4.1** and **Eclipse Oxygen**, enabling the integration and execution of new projects within the existing **Java 7/8** environment.
+  * Adapted a legacy monolithic system in Java 7, used by the university to serve over 8,000 users, using JavaServer Faces (JSF) and XHTML pages.
+  * Handled bug reports received via email and fixed issues directly in the system's Beans or DAOs.
+  * Modified business rules directly in the system to meet user needs, achieving a 40% improvement in results.
+  * Technologies and Tools Used: Gradle, Java EE, Java 7/8, JSF, PrimeFaces, Maven, Apache.
 ---
 
 #### 🔬 Georeferenced Image Marketplace — *State University of Santa Cruz*
